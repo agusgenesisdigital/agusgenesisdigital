@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Agus Saputra
-- 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning NET MAUI
+# Hi there 👋, I'm a mobile developer!
 
-<!---
-agusgenesisdigital/agusgenesisdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have over 7 years of experience developing enterprise-level mobile applications. 
+
+## Skills
+- **Languages**: Javascript, Typescript, C#, PHP, Python, Swift, Kotlin, Java. 
+- **Frameworks**: Jetpack Compose, Swift UI, MAUI/Xamarin Forms.
+
+## Experience
+- Developed high-quality mobile applications using various frameworks and programming languages.
+- Worked on enterprise-level mobile applications that required advanced security measures.
+- Successfully implemented complex features and functionality that met client requirements.
+
+## GitHub
+Check out my GitHub profile to see some of my work!
